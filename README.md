@@ -1,25 +1,31 @@
 The best web stack for a rainy day
 
-- [x] [Turborepo](https://turbo.build/) - Monorepo
-- [x] [pnpm](https://pnpm.io/) - Package manager
-- [x] [Next.js](https://nextjs.org/) - Framework
-- [x] [TypeScript](https://www.typescriptlang.org/) - Language
-- [x] [Tailwind CSS](https://tailwindcss.com/) - CSS framework
-- [x] [shadcn/ui](https://ui.shadcn.com/) - UI
-- [x] [Hono](https://hono.dev/) - API router (with RPC client)
-- [x] [Cloudflare Pages](https://pages.cloudflare.com/) - Hosting
-- [x] [Cloudflare Workers KV](https://developers.cloudflare.com/kv/) - Key-value store
-- [x] [Cloudflare D1](https://developers.cloudflare.com/d1/) - SQLite database
-- [x] [pluv.io](https://www.pluv.io/) - Realtime APIs
+---
 
-<br />
+| Thing                                                              | Description                    | GitHub                                                |
+|-------------------------------------------------------------------:|--------------------------------|:-----------------------------------------------------:|
+| [**Turborepo**](https://turbo.build/)                              | Monorepo                       | [github](https://github.com/vercel/turborepo)         |
+| [**pnpm**](https://pnpm.io/)                                       | Package manager                | [github](https://github.com/pnpm/pnpm)                |
+| [**Next.js**](https://nextjs.org/)                                 | Framework                      | [github](https://github.com/vercel/next.js)           |
+| [**TypeScript**](https://www.typescriptlang.org/)                  | Language                       | [github](https://github.com/vercel/next.js)           |
+| [**Tailwind CSS**](https://tailwindcss.com/)                       | CSS Framework                  | [github](https://github.com/tailwindlabs/tailwindcss) |
+| [**shadcn/ui**](https://ui.shadcn.com/)                            | UI                             | [github](https://github.com/shadcn-ui/ui)             |
+| [**Hono**](https://hono.dev/)                                      | API router (with RPC client)   | [github](https://github.com/honojs/hono)              |
+| [**pluv.io**](https://www.pluv.io/)                                | Realtime APIs                  | [github](https://github.com/pluv-io/pluv)             |
+| [**Cloudflare Pages**](https://pages.cloudflare.com/)              | Hosting                        |                                                       |
+| [**Cloudflare Workers KV**](https://developers.cloudflare.com/kv/) | Key-value store                |                                                       |
+| [**Cloudflare D1**](https://developers.cloudflare.com/d1/)         | SQLite database                |                                                       |
 
 If GraphQL:
 
-- [x] [GraphQL Yoga](https://the-guild.dev/graphql/yoga-server) - GraphQL server
-- [x] [Pothos](https://pothos-graphql.dev/) - GraphQL schema builder
-- [x] [Prisma](https://www.prisma.io/) - ORM (with built-in dataloader)
+| Thing                                                              | Description                    | GitHub                                                |
+|-------------------------------------------------------------------:|--------------------------------|:-----------------------------------------------------:|
+| [**GraphQL Yoga**](https://the-guild.dev/graphql/yoga-server)      | Monorepo                       | [github](https://github.com/vercel/turborepo)         |
+| [**Pothos**](https://pothos-graphql.dev/)                          | GraphQL schema builder         | [github](https://github.com/hayes/pothos)             |
+| [**Prisma**](https://www.prisma.io/)                               | ORM (with built-in dataloader) | [github](https://github.com/drizzle-team/drizzle-orm) |
 
 If not GraphQL:
 
-- [x] [Drizzle ORM](https://orm.drizzle.team/) - ORM
+| Thing                                                              | Description                    | GitHub                                                |
+|-------------------------------------------------------------------:|--------------------------------|:-----------------------------------------------------:|
+| [**Drizzle ORM**](https://orm.drizzle.team/)                       | ORM                            | [github](https://github.com/prisma/prisma)            |
