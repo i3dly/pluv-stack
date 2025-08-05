@@ -55,3 +55,4 @@ Stuff I use less often, think is interesting, and/or am currently evaluating. In
 | [**Models.dev**](https://github.com/sst/models.dev) | AI models database           | [github](https://github.com/sst/models.dev)          |
 | [**oRPC**](https://orpc.unnoq.com/)                 | API router (with RPC client) | [github](https://github.com/unnoq/orpc)              |
 | [**Pulumi**](https://www.pulumi.com/)               | IaC                          | [github](https://github.com/pulumi/pulumi)           |
+| [**Biome**](https://biomejs.dev/)                   | Linter                       | [github](https://github.com/biomejs/biome)           |
