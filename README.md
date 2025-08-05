@@ -1,35 +1,57 @@
-The best web stack for a rainy day
+Stuff I like
 
 ---
 
-| Thing                                                                           | Description                    | GitHub                                                        |
-|--------------------------------------------------------------------------------:|--------------------------------|:-------------------------------------------------------------:|
-| [**Turborepo**](https://turbo.build/)                                           | Monorepo                       | [github](https://github.com/vercel/turborepo)                 |
-| [**pnpm**](https://pnpm.io/)                                                    | Package manager                | [github](https://github.com/pnpm/pnpm)                        |
-| [**Next.js**](https://nextjs.org/)                                              | Framework                      | [github](https://github.com/vercel/next.js)                   |
-| [**TypeScript**](https://www.typescriptlang.org/)                               | Language                       | [github](https://github.com/vercel/next.js)                   |
-| [**Tailwind CSS**](https://tailwindcss.com/)                                    | CSS framework                  | [github](https://github.com/tailwindlabs/tailwindcss)         |
-| [**shadcn/ui**](https://ui.shadcn.com/)                                         | UI                             | [github](https://github.com/shadcn-ui/ui)                     |
-| [**Hono**](https://hono.dev/)                                                   | API router (with RPC client)   | [github](https://github.com/honojs/hono)                      |
-| [**Lucia**](https://lucia-auth.com/)                                            | Authentication                 | [github](https://github.com/lucia-auth/lucia)                 |
-| [**pluv.io**](https://www.pluv.io/)                                             | Real-time                      | [github](https://github.com/pluv-io/pluv)                     |
-| [**OpenNext**](https://opennext.js.org/)                                        | Next.js hosting adapter        | [github](https://github.com/opennextjs/opennextjs-cloudflare) |
-| [**Cloudflare Workers**](https://workers.cloudflare.com/)                       | Platform                       |                                                               |
-| [**Cloudflare D1**](https://developers.cloudflare.com/d1/)                      | SQLite database                |                                                               |
-| [**Cloudflare Workers KV**](https://developers.cloudflare.com/kv/)              | Key-value store                |                                                               |
-| [**Cloudflare R2**](https://www.cloudflare.com/developer-platform/products/r2/) | Object storage                 |                                                               |
-| [**Resend**](https://resend.com/)                                               | Email                          |                                                               |
+## Core
 
-If not GraphQL:
+| Thing                                                        | Description                    | GitHub                                                        |
+|-------------------------------------------------------------:|:-------------------------------|:-------------------------------------------------------------:|
+| [**Turborepo**](https://turbo.build/)                        | Monorepo                       | [github](https://github.com/vercel/turborepo)                 |
+| [**pnpm**](https://pnpm.io/)                                 | Package manager                | [github](https://github.com/pnpm/pnpm)                        |
+| [**Next.js**](https://nextjs.org/)                           | Framework                      | [github](https://github.com/vercel/next.js)                   |
+| [**TypeScript**](https://www.typescriptlang.org/)            | Language                       | [github](https://github.com/vercel/next.js)                   |
+| [**Tailwind CSS**](https://tailwindcss.com/)                 | CSS framework                  | [github](https://github.com/tailwindlabs/tailwindcss)         |
+| [**shadcn/ui**](https://ui.shadcn.com/)                      | UI                             | [github](https://github.com/shadcn-ui/ui)                     |
+| [**Hono**](https://hono.dev/)                                | API router (with RPC client)   | [github](https://github.com/honojs/hono)                      |
+| [**Drizzle**](https://orm.drizzle.team/)                     | Database ORM + tools           | [github](https://github.com/drizzle-team/drizzle-orm)         |
+| [**Lucia**](https://lucia-auth.com/)                         | Authentication                 | [github](https://github.com/lucia-auth/lucia)                 |
+| [**AI SDK**](https://ai-sdk.dev/)                            | AI toolkit                     | [github](https://github.com/vercel/ai)                        |
+| [**pluv.io**](https://www.pluv.io/)                          | Real-time                      | [github](https://github.com/pluv-io/pluv)                     |
+| [**Fumadocs**](https://fumadocs.dev/)                        | Documentation framework        | [github](https://github.com/fuma-nama/fumadocs)               |
+| [**Pastel**](https://github.com/vadimdemedes/pastel)         | CLI framework                  | [github](https://github.com/vadimdemedes/pastel)              |
+| [**React Email**](https://react.email/)                      | Email generation               | [github](https://github.com/resend/react-email)               |
+| [**OpenTofu**](https://opentofu.org/)                        | IaC (Terraform fork)           | [github](https://github.com/opentofu/opentofu)                |
+| [**CDKTF**](https://developer.hashicorp.com/terraform/cdktf) | CDK for Terraform              | [github](https://github.com/hashicorp/terraform-cdk)          |
+| [**OpenNext**](https://opennext.js.org/)                     | Next.js hosting adapter        | [github](https://github.com/opennextjs/opennextjs-cloudflare) |
+| [**Satori**](https://github.com/vercel/satori)               | OG image generation            | [github](https://github.com/vercel/satori)                    |
+| [**tenv**](https://tofuutils.github.io/tenv/)                | Terraform version manager      | [github](https://github.com/tofuutils/tenv)                   |
+| [**fnm**](https://github.com/Schniz/fnm)                     | Node version manager           | [github](https://github.com/Schniz/fnm)                       |
+| [**Changesets**](https://github.com/changesets/changesets)   | Package publishing             | [github](https://github.com/changesets/changesets)            |
 
-| Thing                                                              | Description                    | GitHub                                                |
-|-------------------------------------------------------------------:|--------------------------------|:-----------------------------------------------------:|
-| [**Drizzle ORM**](https://orm.drizzle.team/)                       | ORM                            | [github](https://github.com/drizzle-team/drizzle-orm) |
+## Platforms and services
 
-If GraphQL:
+| Thing                                                                                                   | Description     | GitHub                                                        |
+|--------------------------------------------------------------------------------------------------------:|:----------------|:-------------------------------------------------------------:|
+| [**Cloudflare Workers**](https://workers.cloudflare.com/)                                               | Platform        |                                                               |
+| [**Cloudflare D1**](https://www.cloudflare.com/developer-platform/products/d1/)                         | SQLite database |                                                               |
+| [**Cloudflare Workers KV**](https://www.cloudflare.com/developer-platform/products/workers-kv/)         | Key-value store |                                                               |
+| [**Cloudflare R2**](https://www.cloudflare.com/developer-platform/products/r2/)                         | Object storage  |                                                               |
+| [**Cloudflare Analytics Engine**](https://developers.cloudflare.com/analytics/analytics-engine/)        | Usage tracking  |                                                               |
+| [**Cloudflare Email Routing**](https://www.cloudflare.com/developer-platform/products/email-routing/)   | Email routing   |                                                               |
+| [**Cloudflare Tunnel**](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) | Local tunnel    |                                                               |
+| [**Resend**](https://resend.com/)                                                                       | Email           |                                                               |
+| [**Stripe**](https://stripe.com/)                                                                       | Payments        |                                                               |
+| [**OpenRouter**](https://openrouter.ai/)                                                                | AI Unified API  |                                                               |
 
-| Thing                                                              | Description                    | GitHub                                                 |
-|-------------------------------------------------------------------:|--------------------------------|:------------------------------------------------------:|
-| [**GraphQL Yoga**](https://the-guild.dev/graphql/yoga-server)      | GraphQL server                 | [github](https://github.com/graphql-hive/graphql-yoga) |
-| [**Pothos**](https://pothos-graphql.dev/)                          | GraphQL schema builder         | [github](https://github.com/hayes/pothos)              |
-| [**Prisma**](https://www.prisma.io/)                               | ORM (with built-in dataloader) | [github](https://github.com/prisma/prisma)             |
+## Other
+
+Stuff I use less often, think is interesting, and/or am currently evaluating. In no particular order.
+
+| Thing                                               | Description                  | GitHub                                               |
+|----------------------------------------------------:|:-----------------------------|:----------------------------------------------------:|
+| [**Polar**](https://polar.sh/)                      | Payments                     |                                                      |
+| [**Better Auth**](https://www.better-auth.com/)     | Authentication               | [github](https://github.com/better-auth/better-auth) |
+| [**OpenAuth**](https://openauth.js.org/)            | Authentication               | [github](https://github.com/sst/openauth)            |
+| [**Models.dev**](https://github.com/sst/models.dev) | AI models database           | [github](https://github.com/sst/models.dev)          |
+| [**oRPC**](https://orpc.unnoq.com/)                 | API router (with RPC client) | [github](https://github.com/unnoq/orpc)              |
+| [**Pulumi**](https://www.pulumi.com/)               | IaC                          | [github](https://github.com/pulumi/pulumi)           |
