@@ -15,15 +15,15 @@ Stuff I like
 | [**Hono**](https://hono.dev/)                                | API router (with RPC client)   | [github](https://github.com/honojs/hono)                      |
 | [**Drizzle**](https://orm.drizzle.team/)                     | Database ORM + tools           | [github](https://github.com/drizzle-team/drizzle-orm)         |
 | [**Lucia**](https://lucia-auth.com/)                         | Authentication                 | [github](https://github.com/lucia-auth/lucia)                 |
+| [**OpenTofu**](https://opentofu.org/)                        | IaC (Terraform fork)           | [github](https://github.com/opentofu/opentofu)                |
+| [**CDKTF**](https://developer.hashicorp.com/terraform/cdktf) | CDK for Terraform              | [github](https://github.com/hashicorp/terraform-cdk)          |
+| [**OpenNext**](https://opennext.js.org/)                     | Next.js hosting adapter        | [github](https://github.com/opennextjs/opennextjs-cloudflare) |
 | [**AI SDK**](https://ai-sdk.dev/)                            | AI toolkit                     | [github](https://github.com/vercel/ai)                        |
 | [**pluv.io**](https://www.pluv.io/)                          | Real-time                      | [github](https://github.com/pluv-io/pluv)                     |
 | [**Fumadocs**](https://fumadocs.dev/)                        | Documentation framework        | [github](https://github.com/fuma-nama/fumadocs)               |
 | [**Pastel**](https://github.com/vadimdemedes/pastel)         | CLI framework                  | [github](https://github.com/vadimdemedes/pastel)              |
 | [**React Email**](https://react.email/)                      | Email generation               | [github](https://github.com/resend/react-email)               |
 | [**Vitest**](https://vitest.dev/)                            | Testing framework              | [github](https://github.com/vitest-dev/vitest)                |
-| [**OpenTofu**](https://opentofu.org/)                        | IaC (Terraform fork)           | [github](https://github.com/opentofu/opentofu)                |
-| [**CDKTF**](https://developer.hashicorp.com/terraform/cdktf) | CDK for Terraform              | [github](https://github.com/hashicorp/terraform-cdk)          |
-| [**OpenNext**](https://opennext.js.org/)                     | Next.js hosting adapter        | [github](https://github.com/opennextjs/opennextjs-cloudflare) |
 | [**Satori**](https://github.com/vercel/satori)               | OG image generation            | [github](https://github.com/vercel/satori)                    |
 | [**tenv**](https://tofuutils.github.io/tenv/)                | Terraform version manager      | [github](https://github.com/tofuutils/tenv)                   |
 | [**fnm**](https://github.com/Schniz/fnm)                     | Node version manager           | [github](https://github.com/Schniz/fnm)                       |
